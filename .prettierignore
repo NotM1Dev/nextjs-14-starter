@@ -1,0 +1,4 @@
+node_modules
+components/ui
+.next
+pnpm-lock.yaml
